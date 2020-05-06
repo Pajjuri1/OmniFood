@@ -1,0 +1,32 @@
+
+
+
+body{
+
+    font-size: 18px;
+    
+    font-family: Helvetica,Arial;
+
+    
+
+
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(22, 199, 60);
+}
+
+h2 {
+    font-size: 25px;
+
+}
+
+.main-text{
+    text-align: justify;
+}
+
+#author-text{
+    text-align: justify;
+    font-size: 20px;
+}
